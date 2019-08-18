@@ -1,2 +1,2 @@
 # THE-PROJECT
-building a functioning hockey scoreboard 
+idk how github works, but it seems useful lol 
